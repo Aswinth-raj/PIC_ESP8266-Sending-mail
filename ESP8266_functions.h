@@ -29,7 +29,7 @@
  * Website: circuitdigest.com
  * Version: 0.1
  *
- * See:   circuitdigest.com for more explanation
+ * See:   https://circuitdigest.com/microcontroller-projects/how-to-send-email-using-pic16f877a-esp8266 for more explanation
  *
  * This is the header file for the ESP8266 PIC16F877A library where ESP runs on 115200 baudrate. 
  *
